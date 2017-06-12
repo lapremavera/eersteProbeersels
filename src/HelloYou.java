@@ -13,6 +13,12 @@ public class HelloYou {
       int myNumber = 5;
       String s ="Ik heb "+myNumber+" koekjes";
       System.out.println(s);
+      System.out.println();
+
+      String dorst = new String ("Drinken, ajb!");
+      dorst = "Drinken, ajb!";
+      System.out.print (dorst);
+
 
 
     }
