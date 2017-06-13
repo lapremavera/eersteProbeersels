@@ -8,7 +8,6 @@ public class loop{
             getal = getal + 1;
 
             /*volgende formules kunnen ook
-            getal += 1;  // getal met wat er na staat optellen
             getal ++; // getal met 1 optellen
 
             bestaat ook met -
