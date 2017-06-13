@@ -7,6 +7,7 @@ public class exercise2c{
         System.out.println(Math.ceil(a));
         int RoundedUp = (int) Math.ceil(a);
         System.out.println(RoundedUp);
+        //lijntje commentar
 
 
 
