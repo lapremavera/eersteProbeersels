@@ -1,6 +1,6 @@
 
 
-public class averageSpeedinMiles{
+public class AverageSpeedinMiles {
     public static void main (String [] args){
 
             /*

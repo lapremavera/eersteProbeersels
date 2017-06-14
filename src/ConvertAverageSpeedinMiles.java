@@ -1,4 +1,4 @@
-public class convertAverageSpeedinMiles {
+public class ConvertAverageSpeedinMiles {
     public static void main (String [] args){
 
         double distance = 14.0;

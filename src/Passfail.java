@@ -5,7 +5,7 @@ Wanneer mark meer of gelijk is aan 50 is het 'pass', anders is het 'fail'
 
  */
 
-public class passfail{
+public class Passfail {
     public static void main (String []args){
 
 

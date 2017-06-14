@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifElse{
+public class IfElse {
     public static void main (String[]args){
 
         int a = 1507;

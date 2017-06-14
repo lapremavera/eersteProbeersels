@@ -1,8 +1,8 @@
-public class priemgetallen {
+public class Priemgetallen {
     public static void main (String [] arg){
 
         for (int i = 1 ; i < 100; i++){
-            if (priemgetallen.isPrimeNumber (i)){
+            if (Priemgetallen.isPrimeNumber (i)){
                 System.out.println(i);
 
 
